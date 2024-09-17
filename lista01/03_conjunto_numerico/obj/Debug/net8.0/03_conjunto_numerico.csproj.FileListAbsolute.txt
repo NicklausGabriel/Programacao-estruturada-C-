@@ -1,0 +1,14 @@
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/obj/Debug/net8.0/03_conjunto_numerico.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/obj/Debug/net8.0/03_conjunto_numerico.AssemblyInfoInputs.cache
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/obj/Debug/net8.0/03_conjunto_numerico.AssemblyInfo.cs
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/obj/Debug/net8.0/03_conjunto_numerico.csproj.CoreCompileInputs.cache
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/bin/Debug/net8.0/03_conjunto_numerico
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/bin/Debug/net8.0/03_conjunto_numerico.deps.json
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/bin/Debug/net8.0/03_conjunto_numerico.runtimeconfig.json
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/bin/Debug/net8.0/03_conjunto_numerico.dll
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/bin/Debug/net8.0/03_conjunto_numerico.pdb
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/obj/Debug/net8.0/03_conjunto_numerico.dll
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/obj/Debug/net8.0/refint/03_conjunto_numerico.dll
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/obj/Debug/net8.0/03_conjunto_numerico.pdb
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/obj/Debug/net8.0/03_conjunto_numerico.genruntimeconfig.cache
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/03_conjunto_numerico/obj/Debug/net8.0/ref/03_conjunto_numerico.dll

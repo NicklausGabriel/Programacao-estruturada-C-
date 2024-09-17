@@ -1,0 +1,14 @@
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/obj/Debug/net8.0/04.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/obj/Debug/net8.0/04.AssemblyInfoInputs.cache
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/obj/Debug/net8.0/04.AssemblyInfo.cs
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/obj/Debug/net8.0/04.csproj.CoreCompileInputs.cache
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/bin/Debug/net8.0/04
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/bin/Debug/net8.0/04.deps.json
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/bin/Debug/net8.0/04.runtimeconfig.json
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/bin/Debug/net8.0/04.dll
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/bin/Debug/net8.0/04.pdb
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/obj/Debug/net8.0/04.dll
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/obj/Debug/net8.0/refint/04.dll
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/obj/Debug/net8.0/04.pdb
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/obj/Debug/net8.0/04.genruntimeconfig.cache
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/04/obj/Debug/net8.0/ref/04.dll

@@ -1,0 +1,15 @@
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/obj/Debug/net8.0/09_.GeneratedMSBuildEditorConfig.editorconfig
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/obj/Debug/net8.0/09_.AssemblyInfoInputs.cache
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/obj/Debug/net8.0/09_.AssemblyInfo.cs
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/obj/Debug/net8.0/09_.csproj.CoreCompileInputs.cache
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/obj/Debug/net8.0/09_.sourcelink.json
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/bin/Debug/net8.0/09_
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/bin/Debug/net8.0/09_.deps.json
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/bin/Debug/net8.0/09_.runtimeconfig.json
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/bin/Debug/net8.0/09_.dll
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/bin/Debug/net8.0/09_.pdb
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/obj/Debug/net8.0/09_.dll
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/obj/Debug/net8.0/refint/09_.dll
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/obj/Debug/net8.0/09_.pdb
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/obj/Debug/net8.0/09_.genruntimeconfig.cache
+/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/09_/obj/Debug/net8.0/ref/09_.dll

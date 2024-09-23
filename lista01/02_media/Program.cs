@@ -4,9 +4,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        /* 
-        Ler três notas de um aluno, calcular a média e informar se ele foi aprovado (Média ≥ 7), reprovado (Média < 7) ou aprovado com louvor (Média = 10) 
-         */
+
         Console.WriteLine("Digite a primeira nota do aluno!");
         double nota1 = double.Parse(Console.ReadLine());
         Console.WriteLine("Digite a segunda nota do aluno!");

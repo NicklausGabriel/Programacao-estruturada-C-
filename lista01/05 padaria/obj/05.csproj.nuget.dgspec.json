@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/05/05.csproj": {}
+    "/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/05 padaria/05.csproj": {}
   },
   "projects": {
-    "/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/05/05.csproj": {
+    "/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/05 padaria/05.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/05/05.csproj",
+        "projectUniqueName": "/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/05 padaria/05.csproj",
         "projectName": "05",
-        "projectPath": "/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/05/05.csproj",
+        "projectPath": "/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/05 padaria/05.csproj",
         "packagesPath": "/home/gabriel/.nuget/packages/",
-        "outputPath": "/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/05/obj/",
+        "outputPath": "/home/gabriel/Documents/epsa/programacaoEstruturada/lista01/05 padaria/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/gabriel/.nuget/NuGet/NuGet.Config"
